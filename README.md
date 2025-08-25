@@ -14,7 +14,7 @@
 </p> 
 
 
-<h3 align="center">Aspiring data scientist with a passion for turning complex data into actionable insights. Constantly looking for new and challenging projects to work on.</h3>
+<h3 align="center">AI Engineer passionate about building intelligent systems and turning complex data into actionable insights. Always exploring new challenges at the intersection of data and AI.</h3>
 <br/>
 <br/>
 <br/>
@@ -27,7 +27,7 @@
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on [Zip Merge](https://github.com/VitthalGupta/zip-merge)
+- 👯 I’m looking to collaborate on anything
   
 - 💬 Ask me about **Computer Vision, Machine Learning**
 
